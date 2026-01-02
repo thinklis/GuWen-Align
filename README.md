@@ -4,7 +4,7 @@
 [![Hugging Face Dataset](https://img.shields.io/badge/%F0%9F%A4%97-Robust--Erya-yellow)](https://huggingface.co/datasets/thinklis/Robust-Erya)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-Official repository for the paper: **"A Weakly Supervised Preference Alignment Framework for Robust Ancient Chinese Translation"**, currently under revision at *Pattern Recognition*.
+<!-- Official repository for the paper: **"A Weakly Supervised Preference Alignment Framework for Robust Ancient Chinese Translation"**, currently under revision at *Pattern Recognition*. -->
 
 This project focuses on enhancing the translation of Ancient Chinese into Modern Chinese, specifically addressing the challenge of linguistic variations and model robustness through a weakly supervised preference alignment framework.
 
