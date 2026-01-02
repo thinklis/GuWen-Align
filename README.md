@@ -44,13 +44,6 @@ Our framework follows a two-stage training paradigm:
 ## 🚀 Usage
 
 ### 1. Inference
-Inference and generation are performed via **LLaMA-Factory**. Please download the **Robust-Erya** test files from Hugging Face and follow the LLaMA-Factory [Prediction Guide](https://github.com/hiyouga/LLaMA-Factory) to generate translations for each subset.
-
----
-
-## 🚀 Usage
-
-### 1. Inference
 Inference and generation are performed via **LLaMA-Factory**. Please download the **Robust-Erya** test files from Hugging Face and follow the LLaMA-Factory [Prediction Guide](https://github.com/hiyouga/LLaMA-Factory) to generate translations and obtain initial **BLEU-4** scores.
 
 ### 2. Evaluation
@@ -61,12 +54,14 @@ For advanced semantic evaluation, we employ an **LLM-as-a-Judge** approach:
 ---
 ## 📜 Citation
 
-If you find this work or the **Robust-Erya** dataset helpful, please cite our paper:
+If you find this project or the **Robust-Erya** dataset helpful, please cite this repository:
 
 ```bibtex
-@article{GuWenAlign2025,
-  title={A Weakly Supervised Preference Alignment Framework for Robust Ancient Chinese Translation},
-  author={Thinklis, et al.},
-  journal={Pattern Recognition (Under Revision)},
-  year={2025}
+@misc{GuWenAlign2025,
+  author = {Thinklis},
+  title = {A Weakly Supervised Preference Alignment Framework for Robust Ancient Chinese Translation},
+  year = {2025},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{[https://github.com/thinklis/GuWen-Align](https://github.com/thinklis/GuWen-Align)}}
 }
